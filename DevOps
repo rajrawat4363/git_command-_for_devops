@@ -4,4 +4,16 @@ git add <file name>
 git add. stage all the file which is untracked
 git commit -m"comments about the changes"
 git status 
-git log 
+git log
+git config --global user.name "" set user name 
+git config --global user.email "" set user password
+
+git checkout -b <new branch name which you want to create and swicth in the new branch>
+git checkout <branch name which you want to swich>
+
+git branch # in which branch you are 
+
+git branch <new branch name which you want to create without moving in the new branch
+
+git clone <repo link> which you want to access on your system
+i
