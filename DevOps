@@ -1,1 +1,7 @@
 this is all about the git commmand
+git init
+git add <file name>
+git add. stage all the file which is untracked
+git commit -m"comments about the changes"
+git status 
+git log 
