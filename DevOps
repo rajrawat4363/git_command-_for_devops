@@ -16,4 +16,19 @@ git branch # in which branch you are
 git branch <new branch name which you want to create without moving in the new branch
 
 git clone <repo link> which you want to access on your system
-i
+# then change in the file which you want to do 
+
+Activity on git 
+
+git add <file name>
+git commit -m" comment which you want to do"
+git status check the status
+
+Activity o github 
+
+
+git pull origin main ---pull the latest version in the system/local system
+git remote -v -check the pull push url
+git remote set-url origin https;// <then token>@path of the folder
+# generate token from the git hub from thr developer option 
+git push origin main-- push the changes on the github
